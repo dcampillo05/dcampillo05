@@ -19,8 +19,18 @@ Meu nome é Daniel e sou desenvolvedor WEB Jr.
 ----
 
 <div id="badge">
-    <a href="https://www.linkedin.com/in/danielcampillor/">
-        <img src="" alt="Linkedin" width="90" height="40">
-    </a>
+
+<a href="https://www.linkedin.com/in/danielcampillor/">
+    <img src="LinkedIn.svg" alt="Linkedin" width="" height="40">
+</a>
+
+<a href="[https://www.linkedin.com/in/danielcampillor/](https://www.instagram.com/dcampillo_/)">
+    <img src="LinkedIn.svg" alt="Instagram" width="" height="40">
+</a>
+  
 </div>
+
+
+
+
 
