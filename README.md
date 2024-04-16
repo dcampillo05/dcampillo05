@@ -22,13 +22,31 @@ Meu nome é Daniel e sou desenvolvedor WEB Jr.
 
 <a href="https://www.linkedin.com/in/danielcampillor/">
     <img src="LinkedIn.svg" alt="Linkedin" width="" height="40">
-</a>
+</a>&nbsp;
 
 <a href="[https://www.linkedin.com/in/danielcampillor/](https://www.instagram.com/dcampillo_/)">
-    <img src="LinkedIn.svg" alt="Instagram" width="" height="40">
+    <img src="Instagram.svg" alt="Instagram" width="" height="40">
 </a>
   
 </div>
+
+---
+<table style="border= 0px solid;">
+<tr>
+
+<td>
+  <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcampillo05&show_icons=true&theme=radical&count_private=true" />  
+</td>
+
+<td>
+    <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api/?username=dcampillo05&show_icons=true&theme=radical&count_private=true" />
+</td>
+    
+</tr>
+
+</table>
+
+
 
 
 
