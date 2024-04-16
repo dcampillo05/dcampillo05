@@ -35,11 +35,11 @@ Meu nome é Daniel e sou desenvolvedor WEB Jr.
 <tr>
 
 <td>
-  <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcampillo05&show_icons=true&theme=radical&count_private=true" />  
+  <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcampillo05&show_icons=true&theme=transparent&count_private=true" />  
 </td>
 
 <td>
-    <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api/?username=dcampillo05&show_icons=true&theme=radical&count_private=true" />
+    <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api/?username=dcampillo05&show_icons=true&theme=transparent&count_private=true" />
 </td>
     
 </tr>
