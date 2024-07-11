@@ -35,7 +35,7 @@ Meu nome é Daniel e sou desenvolvedor WEB Jr.
 <tr>
 
 <td>
-   
+   <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcampillo05&layout=compact&theme=transparent" /> 
 </td>
 
 <td>
